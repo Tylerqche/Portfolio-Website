@@ -1,7 +1,7 @@
 import useMediaQuery from "../hooks/useMediaQuery";
 import { motion } from "framer-motion";
 import Line from "../components/Line";
-import React, { useEffect } from 'react';
+import React from 'react';
 import VerticalTimelineComponent from "../components/VerticalTimelineComponent";
 
 const Experience = () => {
