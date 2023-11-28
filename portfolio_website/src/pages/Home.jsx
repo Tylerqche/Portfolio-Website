@@ -96,7 +96,7 @@ const Home = ({ setSelectedPage }) => {
         >
           <a
             className="bg-gradient-rainblue text-deep-blue rounded-sm py-3 px-7 font-semibold hover:bg-blue hover:text-white transition duration-500 border border-primary hover:bg-primary font-playfair hover:shadow-lg"
-            href="https://drive.google.com/file/d/1J2abSEs_cI8pusOBNebU9-mDeraEIkQH/view?usp=sharing"
+            href="https://drive.google.com/file/d/1nkc7YG44pwZZrA49XfmB86rX51kx_Ety/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
