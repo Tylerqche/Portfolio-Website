@@ -11,7 +11,6 @@ import {
   faCss3,
   faHtml5,
   faLinux,
-  faGit,
   faJira
 } from '@fortawesome/free-brands-svg-icons';
 import { faDatabase } from '@fortawesome/free-solid-svg-icons';
